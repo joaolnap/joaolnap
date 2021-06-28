@@ -1,7 +1,7 @@
 ## Hi! I'm João Victor, a Future Sofware Developer!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/joaolnap)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/joaolnap)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaolnap/)
 [![Gmail](http://img.shields.io/badge/-Gmail-8e24aa?style=flat-square&logo=Gmail&logoColor=white)](mailto:jvvlopo@gmail.com)
 
 **Talking about me:**
