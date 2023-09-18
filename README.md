@@ -6,7 +6,7 @@
 
 **Talking about me:**
 
-- 🎓 Graduating in Information Systems at UNIDESC
+- 🎓 Graduate in Information Systems at UNIDESC
 - 📫 Reach me out with jvvlopo@gmail.com
 - 🇧🇷  Living in Brazil
 
